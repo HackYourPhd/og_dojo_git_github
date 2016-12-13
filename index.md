@@ -10,5 +10,5 @@ Mauris ultricies vel lacus sit amet eleifend. Ut dapibus congue ex, vel venenati
 
 + [Chapter 1](chapter_1.md)
 + [Chapter 2](chapter_2.md)
-+ [Chpter 3](chapter_3.md)
-+ [Chpter 4](chapter_4.md)
++ [Chapter 3](chapter_3.md)
++ [Chapter 4](chapter_4.md)
